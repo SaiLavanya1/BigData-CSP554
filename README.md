@@ -6,10 +6,8 @@ This repository contains assignments and projects related to the Big Data course
 
 1. **Assignment 1**: Description of the assignment, including tasks, objectives, and deliverables.
    - Technologies: Apache Hadoop, MapReduce, HDFS, Apache Spark, Hive, Pig, Kafka.
-   - 
-## Projects
 
-# Project 1: Cloud NoSQL Database Exploration
+## Project 1: Cloud NoSQL Database Exploration
 
 ## Description
 
